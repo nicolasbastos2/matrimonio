@@ -32,4 +32,4 @@ window.addEventListener('beforeinstallptompt', (e) =>{
     deferredPrompt = e;
 });
 
-});}
+
