@@ -245,3 +245,14 @@ function initMap() {
 	map.mapTypes.set('styled_map', styledMapType);
 	map.setMapTypeId('styled_map');
 }
+if('serviceWorker'in navigator) {
+		window.addEventListener('load', () =>{
+navigator.serviceWorker.register('sw.js')
+.then(reg =>{
+	console.log('registered', reg);
+}).catch(err=>{
+	console.log('registration failed',err);
+});
+});
+	}
+  
