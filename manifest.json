@@ -6,7 +6,7 @@
   "theme_color": "#2196F3",
   "orientation":"portrait",
   "display":"standalone",
-  "start_url":"/",
+  "start_url":"https://nicolasbastos2.github.io/matrimonio/",
   "scope":"/",
   "lang":"es-mx",
   "icons": [
