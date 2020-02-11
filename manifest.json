@@ -3,7 +3,7 @@
   "short_name":"kathe y juan",
   "description":"Nos complace invitarte a Celebrar Nuesto Amor",
   "background_color":"#FEE581",
-  "theme_color":"f5f5dc",
+  "theme_color": "#2196F3",
   "orientation":"portrait",
   "display":"standalone",
   "start_url":"/index.html?from=homescreen",
